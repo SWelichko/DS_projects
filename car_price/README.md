@@ -1,5 +1,4 @@
-# Определение стоимости автомобилей 
-# Модель градиентного бустинга
+# Определение стоимости автомобилей (Модель градиентного бустинга)
 
 ## Данные
 
@@ -7,8 +6,8 @@
 
 ## Библиотеки
 
-pandas
-numpy
-sklearn  (LinearRegression, DecisionTreeRegressor, RandomForestRegressor, OrdinalEncoder, StandardScaler)
-lightgbm LGBMRegressor
-matplotlib pyplot 
+- pandas
+- numpy
+- sklearn  (LinearRegression, DecisionTreeRegressor, RandomForestRegressor, OrdinalEncoder, StandardScaler)
+- lightgbm LGBMRegressor
+- matplotlib pyplot 
