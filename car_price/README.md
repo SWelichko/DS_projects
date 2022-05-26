@@ -35,3 +35,11 @@
 - sklearn  (LinearRegression, DecisionTreeRegressor, RandomForestRegressor, OrdinalEncoder, StandardScaler)
 - lightgbm LGBMRegressor
 - matplotlib pyplot 
+
+## Статус
+
+- Проект завершен
+
+## Вывод
+
+- Выбрана оптимальная модель ML LGBMRegressor c наименьшим значением ошибки и небольшим временем обучения
