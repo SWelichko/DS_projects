@@ -26,4 +26,12 @@
 - pandas
 - numpy
 - sklearn  (LinearRegression, DecisionTreeRegressor, RandomForestRegressor, cross_val_score, make_scorer)
-- matplotlib pyplot 
+- matplotlib pyplot
+
+## Статус
+
+- Проект завершен
+
+## Вывод
+
+- Методом кросс-валидации на обучающей выборке было протестировано 3 модели регрессии на 2-х этапах процесса обогащения руды
